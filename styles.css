@@ -1,15 +1,56 @@
 #profile{
     width: 400px;
     height: 300px;
-    margin-left: 35%;
+    float: left;
+    padding-top: 3.5%;
+    opacity: 1;
 }
 body{
 background-image: url(https://wallpaperdownload.xyz/wp-content/uploads/2016/11/3d-wallpaper-for-walls6.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 color: antiquewhite;
+font-size: 20px;
+align-content: center;
+font-family: Arial, Helvetica, sans-serif;
 }
 h1{
     text-align: center;
 }
-
+.about{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    opacity: 0.5;
+}
+#background{
+    position: relative;
+    left:-200px;
+    opacity:1;
+}
+nav{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+ }
+ nav>ul{
+   text-align:center;
+ }
+   ul>li {
+     display:inline-block;
+ }
+ nav>ul>li>a {
+ padding: 18px;
+ margin-right: 0;
+ text-transform: uppercase;
+ text-decoration: none;
+ display: block;
+ color: white;
+ font-weight: 500;
+ }
+ nav>ul>li>a:hover {
+ box-shadow: 0 0 10px rgba(238, 20, 20, 0.1), insert 0 0 1px rgba(167, 25, 25, 0.6);
+ background: rgba(150, 53, 145, 0.678);
+ color: rgba(223, 27, 92, 0.7);
+ }
