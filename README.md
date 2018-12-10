@@ -13,4 +13,5 @@ If you ever have a question about my portfolio feel free to contact me at:
 * Phone Number:+250783711066 to call me or
 * Email:anaissimpenzwe@gmail.com to send me an Email
 ### Licence
+NIT Licence
 © 2018 Simpenzwe Anais All Rights Reserved
