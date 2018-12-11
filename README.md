@@ -6,7 +6,10 @@
 ## Setup and Bugs
 This website have neither setup nor bugs it is just  landing page.
 ## Technologies Used
-* In this website I only used Html and Css.
+* In this website I only used 
+* Html
+* Css
+* Markdown
 * To find it click on this link: https://anaissimpz.github.io/Portfolio/
 #### Support and Contact
 If you ever have a question about my portfolio feel free to contact me at:
